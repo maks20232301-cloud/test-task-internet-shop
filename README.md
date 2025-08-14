@@ -7,7 +7,7 @@
 ## Технологии
 - HTML5
 - CSS3 (Flexbox, Media Queries)
-- Google Fonts: Montserrat, Poppins, Merriweather
+- Google Fonts: Montserrat
 - Без JavaScript (кроме базовой структуры бургера — реализован на CSS)
 
 ## Функционал
